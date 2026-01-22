@@ -1,8 +1,8 @@
 import React from 'react';
 const Dashboard = () => {
   return (
-    <div className='flex justify-center items-center'>
-        Welcome to StudyNotion
+    <div className='flex flex-col items-center justify-center  py-50 text-3xl text-white'>
+        Welcome to StudyNotion!!
     </div>
     );
 };
